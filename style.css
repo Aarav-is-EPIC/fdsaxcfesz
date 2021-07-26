@@ -1,0 +1,19 @@
+.header{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 50px gold;
+}
+.note{
+    color:black;
+    font-size:15px;
+}
+#copy-right-footer{
+    width:100%;
+    bottom:0;
+    color:black;
+    position:fixed;
+    line-height:2;
+    background-color:gold;
+    
+}
